@@ -9,3 +9,8 @@ Usually, it is considered a good practice to put these systemd service files ins
 
 copy the one liner script here:
 /root/scripts/piaOneLiner.sh
+
+Private Internet Access support page
+https://helpdesk.privateinternetaccess.com/guides/linux/linux-manual-connection-scripts
+github for scripts
+https://github.com/pia-foss/manual-connections.git
