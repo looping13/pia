@@ -1,0 +1,11 @@
+[Unit]
+Description=Start pia vpn with manual connection script
+After=network-online.target
+
+[Service]
+ExecStart=/usr/bin/bash /root/scripts/piaOneLiner.sh
+Type=simple
+
+[Install]
+WantedBy=default.target
+
